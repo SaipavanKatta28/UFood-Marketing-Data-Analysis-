@@ -12,9 +12,9 @@ This project directly addresses the business problem from the provided [UFood Da
 
 My analysis provides a direct, data-driven solution. I identified high-value, untapped customer segments and pinpointed the company's most effective (and currently underutilized) sales channel. The result is a clear, two-pronged strategy to re-allocate marketing spend from inefficient, generic campaigns to highly targeted, high-ROI actions.
 
-* **Notebook:** [`UFoodMarketingAnalysis.ipynb`](https-in-app-file-link-removed)
+* **Notebook:** [`UFoodMarketingAnalysis.ipynb`]([https-in-app-file-link-removed](https://github.com/SaipavanKatta28/UFood-Marketing-Data-Analysis-/blob/main/U_FoodMarketingAnalysis%20.ipynb))
 
-* **Case Study:** [`UFood Data Analyst Case.pdf`](https-in-app-file-link-removed)
+* **Case Study:** [`UFood Data Analyst Case.pdf`]([https-in-app-file-link-removed](https://github.com/SaipavanKatta28/UFood-Marketing-Data-Analysis-/blob/main/UFood%20Data%20Analyst%20Case.pdf))
 
 * **Data Dictionary:** [`ufood_marketing_Dictionary.jpg`](https-in-app-file-link-removed)
 
