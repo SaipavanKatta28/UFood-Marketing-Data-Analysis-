@@ -88,6 +88,6 @@ This analysis led to a clear, two-pronged strategy to optimize the marketing bud
 
 2. Ensure you have the required libraries: `pandas`, `matplotlib`, `seaborn`.
 
-3. Open and run the [`UFoodMarketingAnalysis.ipynb`](https-in-app-file-link-removed) notebook to see the full analysis.
+3. Open and run the [UFoodMarketingAnalysis.ipynb](https://github.com/SaipavanKatta28/UFood-Marketing-Data-Analysis-/blob/main/U_FoodMarketingAnalysis%20.ipynb) notebook to see the full analysis.
 
 4. Review the `Executive Summary` markdown cell at the end of the notebook for a final summary.
