@@ -16,7 +16,7 @@ My analysis provides a direct, data-driven solution. I identified high-value, un
 
 * **Case Study:** [UFood Data Analyst Case.pdf](https://github.com/SaipavanKatta28/UFood-Marketing-Data-Analysis-/blob/main/UFood%20Data%20Analyst%20Case.pdf)
 
-* **Data Dictionary:** [ufood_marketing_Dictionary.jpg](https://github.com/SaipavanKatta28/UFood-Marketing-Data-Analysis-/blob/main/ufood_marketing_Dictionary.png))
+* **Data Dictionary:** [ufood_marketing_Dictionary.jpg](https://github.com/SaipavanKatta28/UFood-Marketing-Data-Analysis-/blob/main/ufood_marketing_Dictionary.png)
 
 ## Key Skills Demonstrated
 
