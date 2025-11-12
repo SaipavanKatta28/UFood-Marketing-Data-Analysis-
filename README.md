@@ -6,7 +6,7 @@
 
 ### The Business Problem
 
-This project directly addresses the business problem from the provided [UFood Data Analyst Case.pdf](https-in-app-file-link-removed). The company's profit growth perspectives for the next three years are not promising, and strategic initiatives are needed to reverse this trend. The marketing department, in particular, is under pressure to spend its annual budget more wisely and prove the value of its campaigns.
+This project directly addresses the business problem from the provided [UFood Data Analyst Case.pdf](UFood Data Analyst Case.pdf). The company's profit growth perspectives for the next three years are not promising, and strategic initiatives are needed to reverse this trend. The marketing department, in particular, is under pressure to spend its annual budget more wisely and prove the value of its campaigns.
 
 ### My Solution & Impact
 
